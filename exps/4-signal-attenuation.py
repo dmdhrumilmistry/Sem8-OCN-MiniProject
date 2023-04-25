@@ -28,3 +28,12 @@ print(f'''
 α splice (dB): {splice_att}
 overall signal attentuation: {overall_att}
 ''')
+
+# [+] Pi : 200
+# [+] Po : 2
+# [+] L (km): 20
+
+# α (dB): 20.0
+# α (dB/km): 1.0
+# α splice (dB): 19.0
+# overall signal attentuation: 39.0
